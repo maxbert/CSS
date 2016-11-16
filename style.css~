@@ -1,0 +1,4 @@
+body {
+    background-color:indian-red;
+    color:red;
+}
