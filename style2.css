@@ -1,0 +1,29 @@
+body {
+    background-color:skyblue;
+    color:blue;
+}
+a:visited {
+    color:lightsteelblue;
+}
+
+a:link {
+    color:green;
+}
+
+a:hover{
+    color:navajowhite;
+    
+}
+
+a {
+    text-decoration:none;
+}
+
+p {
+    text-decoration:italic;
+    font-family: "arial";
+    text-align:right;
+}
+
+
+

@@ -17,10 +17,13 @@ a:hover{
 
 a {
     text-decoration:none;
+    float:right;
 }
 
 p {
     text-decoration:underline;
     font-family: "monospace";
+    float:left;
+    text-align:center;
 }
 
