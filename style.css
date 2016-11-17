@@ -27,3 +27,15 @@ p {
     text-align:center;
 }
 
+.extreme:hover{
+    color:blue;
+    border: 15px solid lightsteelblue;
+}
+.extreme{
+    color:green;
+}
+
+#head1{
+    font-family:helvetica,sans;
+}
+
