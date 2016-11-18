@@ -26,4 +26,31 @@ p {
 }
 
 
+.extreme:hover{
+    color:orange;
+    border: 15px groove navajowhite;
+}
+.extreme{
+    color:red;
+}
 
+#head1{
+    font-family:helvetica,sans;
+}
+
+div{
+    background-color:olive;
+}
+
+.tehlulz{
+    font-family:Helvetica;
+}
+
+.navzone{
+    background-color:navy;
+    border: 23px dashed blue;
+}
+
+.content{
+    text-align:right;
+}
